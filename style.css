@@ -1,0 +1,57 @@
+/* style.css */
+body {
+    margin: 0;
+    font-family: 'Palatino', sans-serif;
+    background-color: #e0f2ff; /* biru muda */
+    color: #333;
+}
+
+header {
+    background-color: #90caf9;
+    color: #0d47a1;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+section {
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #0d47a1;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    background-color: #bbdefb;
+    color: #0d47a1;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+a {
+    color: #0d47a1;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
